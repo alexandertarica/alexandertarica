@@ -14,9 +14,9 @@ I lead product, design, testing and releases, using AI-assisted development.
 
 ### What I work with
 
-**Product:** user research, prototyping, analytics, pricing, go-to-market
-**Design:** interface, brand, motion
-**Build:** SwiftUI, HealthKit, CloudKit, Vercel, AI coding tools
+- **Product:** user research, prototyping, analytics, pricing, go-to-market
+- **Design:** interface, brand, motion
+- **Build:** SwiftUI, HealthKit, CloudKit, Vercel, AI coding tools
 
 ### Find me
 
