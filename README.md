@@ -12,6 +12,10 @@ I lead product, design, testing and releases, using AI-assisted development.
 
 [![Koi's main screens](https://raw.githubusercontent.com/alexandertarica/koi-balance/main/images/screens.png)](https://github.com/alexandertarica/koi-balance)
 
+### Also: [Vue](https://github.com/alexandertarica/vue)
+
+A live landscape design session where homeowners change their yard in the room. Two working prototypes, shaped by interviews with 9 homeowners and 2 designers. With Natalie Elliott-Cisneros.
+
 ### What I work with
 
 - **Product:** user research, prototyping, analytics, pricing, go-to-market
