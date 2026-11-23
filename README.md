@@ -6,7 +6,7 @@ I build products end to end, from the first customer conversation to the release
 
 An iPhone app that brings habits, nutrition, exercise and to-dos into one daily score.
 
-**51 beta testers** · **1,712 sessions** in 30 days (mid-November 2026) · Startup Launch Award finalist, CPVC AI Hackathon
+**51 users** · **2,678 sessions** and **170 AI meal logs** in 30 days (November 2026) · Startup Launch Award finalist, CPVC AI Hackathon
 
 I lead product, design, testing and releases, using AI-assisted development.
 
